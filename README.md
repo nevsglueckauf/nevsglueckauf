@@ -2,18 +2,20 @@
 
 Hallo,
 
-Mein Name ist Sven - aktuell bin ich in einer Weiterbildung zum <i>Data Analyst</i> bei[DataCraft, Munich](https://www.data-craft.de/) bis <time date="2025-12-31">Dezember 2025</time>.
-Die hier angestrebten Qualifikationen sind:
+Mein Name ist Sven - aktuell bin ich in einer Weiterbildung zum <i>Data Analyst</i> 
+bei [DataCraft](https://www.data-craft.de/) bis <time date="2025-12-31">Dezember 2025</time>.
 
-- Python
+Die hier angestrebten Qualifikationsbereiche sind:
+
 - Data Analytics
+- Python
 - <abbr title="Business Analytics">BI</abbr>
 - Machine Learning
 
 
 ## Profil
 
-- <i>Developer</i>
+- <i>Developer</i> (Backend, Fullstack-Web, Legacy Assembler)
 - <i>DevOps und</i> <i>Networking</i> 
 - <i>Solaris</i>, <i>Linux</i> and <i>MacOS</i> 
 - <i>Relationale Datenbanken</i>
