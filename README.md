@@ -5,6 +5,7 @@ Hallo,
 Mein Name ist Sven - aktuell bin ich in einer Weiterbildung zum <i>Data Analyst</i> 
 bei [DataCraft](https://www.data-craft.de/) bis <time date="2025-12-31">Dezember 2025</time>.
 
+
 Die hier angestrebten Qualifikationsbereiche sind:
 
 - Data Analytics
@@ -12,8 +13,15 @@ Die hier angestrebten Qualifikationsbereiche sind:
 - <abbr title="Business Analytics">BI</abbr>
 - Machine Learning
 
+##  Hint
+Dieses GitHub-Konto enthält „nur“ Dinge, die im Verlauf dieser Maßnahme entstehen.
 
-## Profil
+Andere Repos von mir:
+- [Privat](https://github.com/SchrodtSven)
+
+## Über mich
+
+### Kurzprofil
 
 - <i>Developer</i> (Backend, Fullstack-Web, Legacy Assembler)
 - <i>DevOps und</i> <i>Networking</i> 
@@ -22,7 +30,7 @@ Die hier angestrebten Qualifikationsbereiche sind:
 - <i>Requirements Engineering</i>
 - <i>Projektmanagement</i>
 
-## Qualifizierung / Aus- und Weiterbildung / Studium 
+### Qualifizierung / Aus- und Weiterbildung / Studium 
 - <i>Zend Certified Engineer</i> 
 - Trainer <i>Zend Academy</i>
 - Trainer <i>Oracle University</i> 
