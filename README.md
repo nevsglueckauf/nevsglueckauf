@@ -22,7 +22,7 @@ Die hier angestrebten Qualifikationsbereiche sind:
 - <i>Requirements Engineering</i>
 - <i>Projektmanagement</i>
 
-## Qualifizierung / Studium 
+## Qualifizierung / Aus- und Weiterbildung / Studium 
 - <i>Zend Certified Engineer</i> 
 - Trainer <i>Zend Academy</i>
 - Trainer <i>Oracle University</i> 
@@ -31,6 +31,6 @@ Die hier angestrebten Qualifikationsbereiche sind:
     <small>„AdA-Schein“, Nachweis berufs- und arbeitspädagogischer Kenntnisse</small>
 - <i>Industriekaufmann</i> (IHK)
 - <i>Marketing-Controller</i> (InBIT)
-- <i>Bergbau / Geotechnik</i> und <i>Geoinformatik</i>, Bochum, Berlin
+- <i>Bergbau / Geotechnik</i> und <i>Geoinformatik</i>, Bochum und Berlin
 
 <em>wird fort gesetzt ...</em>
