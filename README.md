@@ -29,8 +29,8 @@ Die hier angestrebten Qualifikationsbereiche sind:
 - Trainer <i>IHK-Akademie Ostwestfalen</i>, Bielefeld
 - <i>„Ausbilder“ </i> gem. <u><abbr title="Ausbilder-Eignungsverordnung">AEVO</abbr>: 
     <small>„AdA-Schein“, Nachweis berufs- und arbeitspädagogischer Kenntnisse</small>
-- (Ehemaliger) <i>Geotechnik-</i> und <i>Geoinformatik-</i> Professional
 - <i>Industriekaufmann</i> (IHK)
 - <i>Marketing-Controller</i> (InBIT)
+- <i>Bergbau / Geotechnik</i> und <i>Geoinformatik-</i>, TFH Bochum
 
 <em>wird fort gesetzt ...</em>
