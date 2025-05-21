@@ -17,10 +17,12 @@ Die hier angestrebten Qualifikationsbereiche sind:
 
 - <i>Developer</i> (Backend, Fullstack-Web, Legacy Assembler)
 - <i>DevOps und</i> <i>Networking</i> 
-- <i>Solaris</i>, <i>Linux</i> and <i>MacOS</i> 
+- <i>Solaris</i>, <i>Linux</i> und <i>MacOS</i> 
 - <i>Relationale Datenbanken</i>
 - <i>Requirements Engineering</i>
 - <i>Projektmanagement</i>
+
+## Qualifizierung / Studium 
 - <i>Zend Certified Engineer</i> 
 - Trainer <i>Zend Academy</i>
 - Trainer <i>Oracle University</i> 
