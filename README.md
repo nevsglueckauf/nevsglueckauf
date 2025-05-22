@@ -8,10 +8,11 @@ Mein Name ist Sven - aktuell bin ich in einer Weiterbildung zum <i>Data Analyst<
 bei [DataCraft](https://www.data-craft.de/) bis <time date="2025-12-31">Dezember 2025</time>.
 
 
-Die hier angestrebten Qualifikationsbereiche sind:
+Die Qualifikationsbereiche sind hierbei:
 
 - Data Analytics
 - Python
+- Datenbanken und SQL
 - <abbr title="Business Analytics">BI</abbr>
 - Machine Learning
 
