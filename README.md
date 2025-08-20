@@ -2,7 +2,7 @@
 # nevsglueckauf - profile
 
 
-> [!NOTE]: 
+> [!NOTE]
 > In German language, because of the primary audience (my current <em>continuing education</em>)
 
 Hallo,
