@@ -4,6 +4,7 @@
 
 > [!NOTE]
 > In German language, because of the primary audience (my current <em>continuing education</em>)
+>
 > Dieses GitHub-Konto enthält „nur“ Dinge, die im Verlauf dieser Maßnahme entstehen.
 
 Hallo,
