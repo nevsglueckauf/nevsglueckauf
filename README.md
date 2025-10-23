@@ -4,6 +4,7 @@
 
 > [!NOTE]
 > In German language, because of the primary audience (my current <em>continuing education</em>)
+> Dieses GitHub-Konto enthält „nur“ Dinge, die im Verlauf dieser Maßnahme entstehen.
 
 Hallo,
 
@@ -24,8 +25,6 @@ Die Qualifikationsbereiche sind hierbei:
 <img src = "https://badges-api.ihk-kompetenz.plus/public/badges/image/dc6b1c5b-de3a-45eb-9d5d-db45829ed00c" width ="490">
 - <a href="https://badges.ihk-kompetenz.plus/assertion/5a549a2d-2bb2-4e3d-b1eb-33b0a0db6ced?id=U2FsdGVkX18ppU9nlEG1YQNRFjaDopVZvvo/DpKiOLQrnMzNcHCTcCAoTaXYQHfw">Info + Validation</a>
 
-##  Hint
-Dieses GitHub-Konto enthält „nur“ Dinge, die im Verlauf dieser Maßnahme entstehen.
 
 Andere Repos von mir:
 - [Privat](https://github.com/SchrodtSven)
